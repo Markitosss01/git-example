@@ -1,2 +1,2 @@
 # git-example
-# new text
+this is some new text!
